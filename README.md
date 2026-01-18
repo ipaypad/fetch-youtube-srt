@@ -1,6 +1,6 @@
 # 这个claude code skill 用于提取 youtube 视频的字幕并保存为字幕文件
 
----
+
 
 # YouTube 字幕提取器 (YouTube Transcript Downloader)
 
