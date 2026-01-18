@@ -1,0 +1,7 @@
+{
+  "name": "fetch-youtube-srt",
+  "description": "A skill to fetch YouTube subtitles/captions.",
+  "version": "1.0.0",
+  "author": "ipaypad",
+  "repository": "https://github.com/ipaypad/fetch-youtube-srt"
+}
